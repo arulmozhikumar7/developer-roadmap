@@ -6,3 +6,4 @@ Visit the following resources to learn more:
 
 - [Using the Effect Hook](https://react.dev/reference/react/useEffect)
 - [React useEffect Hook by Example](https://www.robinwieruch.de/react-useeffect-hook/)
+- [Mastering React's useEffect](https://youtu.be/dH6i3GurZW8?si=0PawRtCGLCGt7I9M)
